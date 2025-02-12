@@ -1,0 +1,43 @@
+/* Basic styling for the body and overall layout */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+/* Styling for the header */
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Center the main content */
+main {
+  margin: 20px;
+  text-align: center;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 1.2em;
+}
+
+/* Button styling */
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1em;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #45a049;
+}
